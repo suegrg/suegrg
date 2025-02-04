@@ -1,9 +1,5 @@
 ## Hi there 👋 I'm Sue!  
 
-<!--  
-**suegrg/suegrg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
--->  
-
 ## Hi! My name is **Sudikshya Gurung**, or **Sue**, and I am a **Computer Science and Informatics** student at **UMass Amherst**. I am interested in **UI/UX, data visualization, and product management**.  
 
 Here is my most recent project: [Cafe Providence](https://github.com/suegrg/cafe-providence.git)  
@@ -37,4 +33,4 @@ Here is my most recent project: [Cafe Providence](https://github.com/suegrg/cafe
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
