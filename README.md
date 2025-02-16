@@ -2,8 +2,10 @@
 
 <div align="center">
   <h3 align="center">Highlighted Projects</h3>
-  <h5>Cafe Providence: A web application for cafes around Providence</h5>
+  <h5>Cafe Providence: A web application for cafes around Providence (Hack@Brown 2025)</h5>
   <p><a href="https://github.com/suegrg/cafe-providence.git">Check it out here!</a></p>
+  <h5>Clean Skincare: A web application for exploring skincare options (HackHer@UMass 2025)</h5>
+  <p><a href="https://github.com/suegrg/skincare-app.git">Check it out here!</a></p>
 </div>
   
 <div align="center">
